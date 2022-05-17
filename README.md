@@ -3,7 +3,7 @@
 Full-Stack Software Engineer with experience using Ruby, Rails, JavaScript, and React/Redux.
 
 <hr>
-<h1> Projects </h1>
+<h1> Recent Projects </h1>
 <h3> IT IS THE OFFICE QUIZ </h3> 
  <a href="https://github.com/Kianajade42/officequiz"> Frontend </a> |
  <a href="https://github.com/Kianajade42/officequiz-backend"> Backend </a> <br>
