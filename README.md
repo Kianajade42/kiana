@@ -13,7 +13,7 @@ With hospitality skills in problem solving, managing expectations and communicat
 SPA features a Rails API backend and a React and Redux front-end
 
 <h3> MySpanish </h3>
-<a href="https://github.com/Kianajade42/Myspanish"> Repo </a> <br>
+<a href="https://github.com/Kianajade42/SpanishVocab"> Repo </a> <br>
 🖌  SPA features an open-source API with randomly generated quotes in Spanish for self- taught learners to practice spelling, grammar and reading. Users will be generated a random quote and ability to type along as they read with real-time spelling check. 
 Developed Javascript/HTML front-end and open-source API application
 <hr>
